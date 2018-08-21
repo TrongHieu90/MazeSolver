@@ -1,4 +1,4 @@
-# Maze Generator
+# Maze Solver
 
 ![MazeSolver1](https://github.com/TrongHieu90/MazeSolver/blob/master/ImgDocs/MazeSolver.jpg)
 ![MazeSolver2](https://github.com/TrongHieu90/MazeSolver/blob/master/ImgDocs/MazeSolver2.jpg)
