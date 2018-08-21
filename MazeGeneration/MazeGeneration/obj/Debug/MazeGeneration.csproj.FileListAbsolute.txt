@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\MazeGeneration\MazeGeneration\bin\Debug\MazeGeneration.exe.config
+C:\Users\Administrator\source\repos\MazeGeneration\MazeGeneration\bin\Debug\MazeGeneration.exe
+C:\Users\Administrator\source\repos\MazeGeneration\MazeGeneration\bin\Debug\MazeGeneration.pdb
+C:\Users\Administrator\source\repos\MazeGeneration\MazeGeneration\obj\Debug\MazeGeneration.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\MazeGeneration\MazeGeneration\obj\Debug\MazeGeneration.Form1.resources
+C:\Users\Administrator\source\repos\MazeGeneration\MazeGeneration\obj\Debug\MazeGeneration.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MazeGeneration\MazeGeneration\obj\Debug\MazeGeneration.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MazeGeneration\MazeGeneration\obj\Debug\MazeGeneration.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MazeGeneration\MazeGeneration\obj\Debug\MazeGeneration.exe
+C:\Users\Administrator\source\repos\MazeGeneration\MazeGeneration\obj\Debug\MazeGeneration.pdb
